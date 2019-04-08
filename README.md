@@ -1,3 +1,3 @@
 # Data_Science_Projects
-Unemployment_and_VIX_index
-Regression of house pricing
+Unemployment_and_VIX
+House_Price_Regression
